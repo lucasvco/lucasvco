@@ -1,5 +1,5 @@
 ### Hi there 👋
-Atualmente cursando Análise e desenvolimento de sistemas e estudando JavaScript, Python e PHP
+Atualmente cursando Análise e desenvolimento de sistemas.
 
 <!--
 **lucasvco/lucasvco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
